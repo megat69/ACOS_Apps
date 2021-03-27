@@ -65,4 +65,4 @@ Just uninstall and reinstall the app.
 You can submit apps on my [Discord server](https://discord.gg/MBuKcUn), or create a pull request for this repository.
 
 ## How do I create an app ?
-See the wiki.
+See the [wiki](https://github.com/megat69/ACOS_Apps/wiki/App-creation).

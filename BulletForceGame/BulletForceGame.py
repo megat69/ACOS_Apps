@@ -42,7 +42,7 @@ def on_app_launch(frame:tk.Frame, width:int=900, height:int=640):
 			globals()["no_connection_subtitle"].destroy()
 
 		# Launching webapp
-		webapp_generator.launch(frame, "https://www.crazygames.com/embed/bullet-force-multiplayer")
+		webapp_generator.launch(frame, "https://www.crazygames.com/game/bullet-force-multiplayer")
 
 	else:
 		if not "no_connection_title" in globals():

@@ -59,7 +59,7 @@ Find the `.userdata.json` file for each user, and in the key `taskbar`, remove t
 ***If you know nothing about JSON in general, I recommend not using this uninstall type.***
 
 ## Updating an app
-Just uninstall and reinstall the app.
+Just uninstall and reinstall the app, or use the correct button in the `app_adder.py` script.
 
 ## How do I publish my app ?
 You can submit apps on my [Discord server](https://discord.gg/MBuKcUn), or create a pull request for this repository.
